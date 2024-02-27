@@ -9,7 +9,7 @@ const StartScreen = ({ numQuestions, dispatch }) => {
         className="btn btn-ui"
         onClick={() => dispatch({ type: "start" })}
       >
-        Let's Start!
+        Let's Begin!
       </button>
     </div>
   );
